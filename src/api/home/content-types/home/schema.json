@@ -12,13 +12,33 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "thefieldname": {
-      "type": "string"
-    },
     "home_big_slider": {
       "type": "component",
       "repeatable": true,
       "component": "category.home-big-slider"
+    },
+    "welcome_to_split": {
+      "type": "richtext"
+    },
+    "blue_boxes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "blueboxescategory.blue-boxes"
+    },
+    "description_for_villa": {
+      "type": "richtext"
+    },
+    "left_white_list": {
+      "displayName": "left_white_list",
+      "type": "component",
+      "repeatable": false,
+      "component": "leftwhitelist.left-white-list"
+    },
+    "testimonials": {
+      "displayName": "testimonials",
+      "type": "component",
+      "repeatable": false,
+      "component": "testimonials.testimonials"
     }
   }
 }

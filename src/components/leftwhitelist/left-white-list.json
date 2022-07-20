@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_leftwhitelist_left_white_lists",
+  "info": {
+    "displayName": "left_white_list"
+  },
+  "options": {},
+  "attributes": {
+    "list_holder": {
+      "type": "richtext"
+    },
+    "right_content": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_testimonials_items_testimonials_items",
+  "info": {
+    "displayName": "testimonials_items"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

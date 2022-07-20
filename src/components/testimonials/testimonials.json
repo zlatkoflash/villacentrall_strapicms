@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_testimonials_testimonials",
+  "info": {
+    "displayName": "testimonials"
+  },
+  "options": {},
+  "attributes": {
+    "top_title": {
+      "type": "richtext"
+    },
+    "right_content": {
+      "type": "richtext"
+    },
+    "testimonials_items": {
+      "displayName": "testimonials_items",
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonials-items.testimonials-items"
+    }
+  }
+}
