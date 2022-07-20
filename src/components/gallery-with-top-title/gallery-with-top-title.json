@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_gallery_with_top_title_gallery_with_top_titles",
+  "info": {
+    "displayName": "gallery_with_top_title"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "text"
+    },
+    "photos": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

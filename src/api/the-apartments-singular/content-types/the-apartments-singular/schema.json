@@ -4,15 +4,44 @@
   "info": {
     "singularName": "the-apartments-singular",
     "pluralName": "the-apartments-plural",
-    "displayName": "The Apartments"
+    "displayName": "The Apartments",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "name": {
-      "type": "string"
+    "big_header": {
+      "type": "component",
+      "repeatable": false,
+      "component": "categorybigheadersection.big-header-section"
+    },
+    "photo_bottom_content": {
+      "type": "component",
+      "repeatable": true,
+      "component": "photobottomcontent.photo-bottom-content"
+    },
+    "left_panel": {
+      "type": "component",
+      "repeatable": false,
+      "component": "panelonside.panel-on-side"
+    },
+    "gallery_floor_1": {
+      "displayName": "gallery_with_top_title",
+      "type": "component",
+      "repeatable": false,
+      "component": "gallery-with-top-title.gallery-with-top-title"
+    },
+    "right_panel": {
+      "type": "component",
+      "repeatable": false,
+      "component": "panelonside.panel-on-side"
+    },
+    "gallery_top": {
+      "type": "component",
+      "repeatable": false,
+      "component": "gallery-with-top-title.gallery-with-top-title"
     }
   }
 }
