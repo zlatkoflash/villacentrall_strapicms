@@ -19,7 +19,7 @@
     },
     "photo_bottom_content": {
       "type": "component",
-      "repeatable": true,
+      "repeatable": false,
       "component": "photobottomcontent.photo-bottom-content"
     },
     "left_panel": {
