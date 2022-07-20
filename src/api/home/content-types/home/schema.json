@@ -39,6 +39,11 @@
       "type": "component",
       "repeatable": false,
       "component": "testimonials.testimonials"
+    },
+    "testimonials_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonials-items.testimonials-items"
     }
   }
 }
