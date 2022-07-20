@@ -14,6 +14,11 @@
   "attributes": {
     "thefieldname": {
       "type": "string"
+    },
+    "home_big_slider": {
+      "type": "component",
+      "repeatable": true,
+      "component": "category.home-big-slider"
     }
   }
 }

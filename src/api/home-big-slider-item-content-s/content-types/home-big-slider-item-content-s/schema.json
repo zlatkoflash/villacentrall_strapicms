@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_big_slider_item_contents_p",
+  "info": {
+    "singularName": "home-big-slider-item-content-s",
+    "pluralName": "home-big-slider-item-contents-p",
+    "displayName": "Home Big Slider Item Content"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

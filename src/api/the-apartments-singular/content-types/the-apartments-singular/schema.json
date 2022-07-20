@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "the_apartments_plural",
+  "info": {
+    "singularName": "the-apartments-singular",
+    "pluralName": "the-apartments-plural",
+    "displayName": "The Apartments"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_category_home_big_sliders",
+  "info": {
+    "displayName": "Home Big Slider",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}
