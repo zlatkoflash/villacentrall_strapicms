@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_panelonside_panel_on_sides",
+  "info": {
+    "displayName": "panel_on_side"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "background": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

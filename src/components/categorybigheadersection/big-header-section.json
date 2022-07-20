@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_categorybigheadersection_big_header_sections",
+  "info": {
+    "displayName": "big_header_section"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

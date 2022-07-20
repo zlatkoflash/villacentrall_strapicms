@@ -44,6 +44,17 @@
       "type": "component",
       "repeatable": true,
       "component": "testimonials-items.testimonials-items"
+    },
+    "home_big_slider_background": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
     }
   }
 }

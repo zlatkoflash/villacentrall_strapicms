@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_photobottomcontent_photo_bottom_contents",
+  "info": {
+    "displayName": "photo_bottom_content"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "photo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

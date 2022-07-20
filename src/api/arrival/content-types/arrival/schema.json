@@ -4,15 +4,39 @@
   "info": {
     "singularName": "arrival",
     "pluralName": "arrivals",
-    "displayName": " Arrival"
+    "displayName": " Arrival",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "arrival_text": {
-      "type": "string"
+    "big_header": {
+      "displayName": "big_header_section",
+      "type": "component",
+      "repeatable": false,
+      "component": "categorybigheadersection.big-header-section"
+    },
+    "photo_bottom_content": {
+      "displayName": "photo_bottom_content",
+      "type": "component",
+      "repeatable": false,
+      "component": "photobottomcontent.photo-bottom-content"
+    },
+    "panel_on_side_right": {
+      "displayName": "panel_on_side",
+      "type": "component",
+      "repeatable": false,
+      "component": "panelonside.panel-on-side"
+    },
+    "light_blue_title": {
+      "type": "richtext"
+    },
+    "panel_on_side_left": {
+      "type": "component",
+      "repeatable": true,
+      "component": "panelonside.panel-on-side"
     }
   }
 }
